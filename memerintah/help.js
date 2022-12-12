@@ -517,4 +517,4 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `List Sewa ubah sendiri di folder command, file help.js 👌`
+exports.sewanya = `List Sewa Dana:0878-3770-3826/nOvo:0878-3770-3726`
