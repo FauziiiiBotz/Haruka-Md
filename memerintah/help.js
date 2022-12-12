@@ -517,4 +517,4 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `List Sewa Dana:0878-3770-3826/nOvo:0878-3770-3726`
+exports.sewanya = `List Sewa/n/nDana:0878-3770-3826/nOvo:0878-3770-3726`
